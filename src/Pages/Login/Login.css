@@ -1,0 +1,21 @@
+.login {
+    margin-top: 15%;
+}
+
+button {
+    position: relative;
+    color: #fff;
+    margin-top: 5%;
+    margin-left: 40%;
+    width: 20%;
+    padding: 10px 10px;
+    font-size: 20px;
+    outline: none;
+    border: none;
+}
+
+button:hover {
+    border: 2px solid #fff;
+    border-radius: 10px;
+    cursor: pointer;
+}
