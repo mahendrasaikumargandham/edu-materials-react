@@ -12,10 +12,10 @@ button {
     font-size: 20px;
     outline: none;
     border: none;
+    border: 2px solid transparent;
 }
 
 button:hover {
     border: 2px solid #fff;
-    border-radius: 10px;
     cursor: pointer;
 }

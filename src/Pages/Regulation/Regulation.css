@@ -1,3 +1,60 @@
 button {
     color: #fff;
 }
+
+.container {
+    position: relative;
+    z-index: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    margin: 40px 0;
+}
+
+.container .card {
+    position: relative;
+    width: 300px;
+    height: 250px;
+    background: rgba(255, 255, 255, 0.2);
+    margin: 20px;
+    box-shadow: rgba(0, 0, 0, 0.2);
+    align-items: center;
+    justify-content: center;
+    backdrop-filter: blur(10px);
+    cursor: default;
+    border: 2px solid transparent;
+}
+
+.container .card:hover {
+    border: 2px solid #fff;
+}
+
+.container .card .content {
+    position: relative;
+    display: flex;
+    height: 250px;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    opacity: 0.5;
+    transition: 0.5s;
+} 
+
+.container .card:hover .content {
+    opacity: 1;
+}
+
+.container .card .content .contentBox {
+    color: #fff;
+    text-transform: uppercase;
+    font-weight: 500;
+    text-align: center;
+    margin: 20px 20px;
+}
+
+span {
+    border: 2px solid #fff;
+    padding: 10px 30px;
+    cursor: pointer;
+}
