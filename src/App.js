@@ -4,7 +4,7 @@ import { BrowserRouter as Router, Route, Routes} from "react-router-dom";
 import Main from './Main';
 import Login from './Pages/Login/Login';
 import Regulation from './Pages/Regulation/Regulation';
-import SyllabusR20 from './Pages/R20/Syllabus/SyllabusR20';
+import SyllabusR20 from './Pages/R20/Syllabus/SyllabusR20/SyllabusR20';
 function App() {
   return (
     <div className="app">
