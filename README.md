@@ -6,3 +6,5 @@ Developed using React JS
   <li>Clone the code, go to main directory and run command `npm install` </li>
   <li>After installing dependencies (node_modules) on the main directory, run command `npm start` </li>
 </ul>
+
+<h3>Editing Main Page (App.js)</h3>
