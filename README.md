@@ -8,3 +8,6 @@ Developed using React JS
 </ul>
 
 <h3>Editing Main Page (App.js)🚀</h3>
+<ul>
+  <li>Open src/App.js file to edit home page</li>
+</ul>
