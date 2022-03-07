@@ -9,5 +9,5 @@ Developed using React JS
 
 <h3>Editing Main Page (App.js)🚀</h3>
 <ul>
-  <li>Open src/App.js file to edit home page</li>
+  <li>Open <b>src/App.js</b> file to edit home page</li>
 </ul>
