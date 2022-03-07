@@ -7,4 +7,4 @@ Developed using React JS
   <li>After installing dependencies (node_modules) on the main directory, run command `npm start` </li>
 </ul>
 
-<h3>Editing Main Page (App.js)</h3>
+<h3>Editing Main Page (App.js)🚀</h3>
