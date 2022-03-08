@@ -1,5 +1,5 @@
 # EDU-MATERIALS-REACT📄
-Developed using React JS
+Developed using React JS👈🏻
 <h3>Steps to run code🪜</h3>
 <ul>
   <li>First, install Node JS on your machine.</li>
